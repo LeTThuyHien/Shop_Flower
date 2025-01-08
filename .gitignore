@@ -1,0 +1,5 @@
+// Loại bỏ cấu hình máy macos
+.DS_Store
+
+// Loại bỏ thư viên font 
+/assest/fonts/
